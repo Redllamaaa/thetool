@@ -35,6 +35,13 @@ Interpreted languages are read through an interpreter which then translates the 
 #### The speeds of different programming languages
 
 Comparing the speeds of programming languages would be a difficult task. Fortunatly people like [Niklas-heer](https://github.com/niklas-heer) have developed a way of producting the data we are looking for. 
+<<<<<<< Updated upstream
+=======
+
+on 2023-02-05 they generated the following data
+
+![image2](https://niklas-heer.github.io/speed-comparison/assets/2023-02-05T185235/combined_results.png)
+>>>>>>> Stashed changes
 
 on 2023-02-05 they generated the following [data](https://niklas-heer.github.io/speed-comparison/pages/2023-02-05T185235.html)
 
